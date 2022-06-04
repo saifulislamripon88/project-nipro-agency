@@ -1,0 +1,1034 @@
+
+@media (max-width: 575.98px) { 
+
+        
+    /* header start here  */
+
+    header{
+        border-bottom: none;
+    }
+
+    .logo_h1 {
+        font-size: 24px;
+    }
+    .menu ul li a {
+        margin: 0px 5px;
+      
+    }
+    
+    .dropdown_main[data-bs-popper] {
+        top: 150%;
+        left: 0px;
+    }
+
+    .dropdown_main{
+        width: 260px;
+        border: none;
+    }
+
+    .btn_search {
+        margin-top: 0px;
+        margin-left: -6px;
+    }
+
+    .btn_input {
+        width: 219px;
+        height: 42px;
+        border-radius: 2px;
+    }
+    .search_btn {
+        width: 82px;
+        height: 42px;
+        border-radius: 2px;
+    }
+
+         /* slider section start here */
+
+         .carousel_wrappers {
+            margin: 120px 0;
+        }
+        .carousel_wrappers h2 {
+            font-size: 28px;
+            margin-bottom: 25px;
+           
+        }
+        .carousel_wrappers p {
+            margin-bottom: 35px;
+            padding-right: 0px;
+            text-align: justify;
+        }
+     
+
+        .btn_no1 {
+            padding: 8px 14px;
+        }
+
+        .custom_button{
+            text-align: center;
+        }
+        
+
+
+         
+
+
+
+
+
+
+     /* courses section design start here */
+     .courses {
+        padding: 40px 0;   
+    }
+    .courses_content {
+        margin-top: 40px;
+    }
+    
+    
+    .c_title h1 {
+                font-size: 24px;
+                line-height: 40px;
+    }
+
+    .c_title p {
+                text-align: left;
+                text-align: justify;
+     }
+
+
+     
+
+       /* about section design start here  */
+
+       .about{
+        padding:20px 0 40px
+                
+  }
+  .about_image img{
+    width: 100%;
+    height: auto;
+}
+
+  .about_content{
+       text-align: center;
+  }
+            
+  .about_content h1{
+   margin-top: 25px;
+   font-size: 24px;
+    
+   }
+    
+   .about_btn{
+   margin: 0 auto;
+   padding: 8px 16px;
+   margin-top: 0px;
+        
+
+ }
+
+ .gallery {
+    background-color: #f8f8f8;
+    padding: 50px 0;
+}
+
+
+.gallery_h1 {
+
+    font-size: 24px;
+}
+
+.custom_g_btn {
+    padding: 0px 5px;
+}
+
+
+
+    /* feature section start */
+
+    .feature {
+        padding: 30px 0 10px;
+    }
+    .feature_h1 {
+        font-size: 26px;
+        margin-bottom: 40px;
+    }
+
+    .feature_c_hover{
+        text-align: center!important;
+    }
+
+    .feature_icon i {
+        font-size: 40px;
+    }
+
+    .feature_content h2 {
+        font-size: 17px;
+    }
+
+    .feature_hr {
+        width: 100%;
+    }
+
+
+     /* team content tart */
+
+
+        .teams {
+            padding: 40px 0;
+        }
+    
+        .team_box {
+            padding-top: 25px;
+    
+            
+        
+        }
+    
+        .team_h {
+            font-size: 24px;
+            margin-top: -55px;
+            padding-bottom: 20px;
+            
+        }
+    
+        .social_m_links {
+            top: 45px;
+           
+        }
+
+        .social_m_links ul li {
+            padding: 12px 0;
+        }
+
+
+  /* price section design here */
+
+  .price {
+    padding: 40px 0;
+}
+
+.price_h {
+    margin-bottom: 15px;
+    font-size: 24px;
+    
+}    
+
+.price_item h5 span {
+    font-size: 26px;
+   
+}
+
+.price_btn {
+    padding: 8px 53px;
+
+}       
+
+.buy_content h3{
+    text-align: center;
+    padding-bottom: 15px;
+}
+       
+.buy_button{
+    text-align: center !important;
+}
+.buy_btn {
+    padding: 8px 50px;
+}
+
+
+    /* testimonial section start here */
+
+    .testimonial {
+        padding: 50px 0;
+    }
+
+    .testimonial_img img {
+        width: 100%;
+    }
+
+  
+    
+    .testimonial_content{
+        text-align: center;
+    }
+
+    .testimonial_content h3 {
+        margin-top: 18px;
+    }
+
+    .testimonial_content h5 {
+        margin: 12px 0 10px;
+    }
+
+ 
+
+    .testimonial_cont_2 {
+        margin-top: 15px;
+        text-align: center;
+        /* border: none; */
+    }
+
+    .testimonial_cont_2 ul{
+        margin: 0;
+
+    }
+    .testimonial_cont_2 p{
+        display: inline-block;
+    }
+
+
+    .testimonial_cont_2 ul li {
+        padding: 10px 28px;
+    }
+
+    .testimonial_cont_2 ul li a{
+        writing-mode: horizontal-tb;
+    }
+
+
+    
+/* contacts section design start here */
+
+.contact{
+    padding: 30px 0 40px;
+}
+
+.contact_form {
+    padding: 54px 12px;
+}
+
+
+.contact_form h1 {
+    width: 45%;
+    font-size: 18px;
+    margin-top: -65px;
+}
+.contact_btn {
+    padding: 10px 32px;
+}
+
+
+/* footer section design start here */
+.footer_content {
+    padding: 26px 0;
+   
+}
+.footer_content h1 {
+    font-size: 24px;
+}
+
+.footer_social_media ul li {
+    width: 44px;
+    height: 44px;
+  
+}
+
+.footer_social_media ul li a {
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 42px;
+}
+
+.footer_2p{
+    text-align: center !important;
+}
+
+.footer_menu{
+    text-align: center !important;
+}
+
+.footer_menu ul li {
+    padding: 0px 8px;
+}
+
+/* footer section design end here */
+   
+   
+ }
+
+
+
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    
+    /* header start here  */
+
+    header{
+        border-bottom: none;
+    }
+
+    .logo_h1 {
+        font-size: 26px;
+    }
+    .menu ul li a {
+        margin: 0px 5px;
+      
+    }
+    
+    .dropdown_main[data-bs-popper] {
+        top: 150%;
+        left: 8px;
+    }
+
+    .dropdown_main{
+        width: 497px;
+        border: none;
+    }
+
+    .btn_search {
+        margin-top: 0px;
+        margin-left: -6px;
+    }
+
+    .btn_input {
+        width: 415px;
+        height: 45px;
+        border-radius: 2px;
+    }
+    .search_btn {
+        width: 78px;
+        height: 45px;
+        border-radius: 2px;
+    }
+
+          /* slider section start here */
+
+          .carousel_wrappers {
+            margin: 130px 0;
+        }
+        .carousel_wrappers h2 {
+            font-size: 40px;
+            margin-bottom: 30px;
+           
+        }
+        .carousel_wrappers p {
+            margin-bottom: 35px;
+            padding-right: 22px;
+            text-align: justify;
+        }
+     
+
+        .btn_no1 {
+            padding: 8px 18px;
+        }
+
+        .custom_button{
+            text-align: center;
+        }
+   
+
+
+
+
+
+
+
+
+
+
+    /* courses section design start here */
+    .courses {
+        padding: 40px 0;   
+    }
+    .courses_content {
+        margin-top: 40px;
+    }
+
+    .c_title h1 {
+         font-size: 26px;
+        }
+
+        .courses_content {
+            padding: 16px 10px;
+            margin-top: 50px;
+        }
+
+        .courses_icon {
+            margin: -30px auto 25px;
+        }
+
+    .c_title p {
+        text-align: left;
+        text-align: justify;
+        }
+
+
+
+
+       /* about section design start here  */
+
+      .about{
+            padding:20px 0 40px
+                    
+      }
+        
+      .about_content{
+           text-align: center;
+      }
+                
+      .about_content h1{
+       margin-top: 25px;
+       font-size: 26px;
+        
+       }
+        
+       .about_btn{
+       margin: 0 auto;
+       padding: 8px 16px;
+       margin-top: 0px;
+            
+     }
+     .custom_g_btn {
+        padding: 0px 3px;
+    }
+
+
+     /* gallery section design start here */
+
+
+
+     .gallery {
+        background-color: #f8f8f8;
+        padding: 50px 0;
+    }
+
+
+
+  
+
+    .gallery_h1 {
+    
+        font-size: 26px;
+    }
+        
+    
+    
+
+
+
+
+
+    
+
+     /* feature section start */
+
+    .feature {
+        padding: 30px 0 10px;
+    }
+    .feature_h1 {
+        font-size: 26px;
+        margin-bottom: 40px;
+    }
+    .feature_icon i {
+        font-size: 40px;
+    }
+
+    .feature_content h2 {
+        font-size: 17px;
+    }
+
+    .feature_hr {
+        width: 100%;
+    }
+
+      /* team content tart */
+
+
+      .teams {
+        padding: 50px 0;
+    }
+
+    .team_box {
+        padding-top: 30px;
+
+        
+    
+    }
+
+    .team_h {
+        font-size: 26px;
+        
+    }
+
+    .social_m_links {
+        top: 45px;
+       
+    }
+
+
+    /* price section design here */
+
+    .price {
+        padding: 50px 0;
+    }
+    
+    .price_h {
+        margin-bottom: 20px;
+        font-size: 26px;
+        
+    }    
+
+    .price_item h5 span {
+        font-size: 30px;
+       
+    }
+
+    .price_btn {
+        padding: 8px 53px;
+    
+    }
+   
+
+
+    /* buy section design start here */
+
+    .buy_btn {
+        padding: 9px 40px;
+    }
+
+    /* testimonial section start here */
+
+    .testimonial {
+        padding: 50px 0;
+    }
+
+    .testimonial_img img {
+        width: 100%;
+    }
+
+    .testimonial_content{
+        text-align: center;
+    }
+
+    .testimonial_content h3 {
+        margin-top: 18px;
+    }
+
+    .testimonial_content h5 {
+        margin: 12px 0 10px;
+    }
+
+
+    .testimonial_cont_2 {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .testimonial_cont_2 ul{
+        margin: 0;
+
+    }
+    .testimonial_cont_2 p{
+        display: inline-block;
+    }
+
+
+ 
+   
+
+    .testimonial_cont_2 ul li a{
+        writing-mode: horizontal-tb;
+    }
+
+        
+    
+/* testimonial section start */
+
+
+.testimonial_content h5 {
+    margin: 10px 0 10px;
+}
+.testimonial_content p {
+    line-height: 26px;
+}
+
+
+.testimonial_cont_2 ul li {
+    padding: 7.5px 64px;
+}
+
+
+/* contacts section design start here */
+
+.contact{
+    padding: 30px 0 40px;
+}
+
+.contact_form {
+    padding: 55px 20px;
+}
+
+
+.contact_form h1 {
+    width: 40%;
+    font-size: 26px;
+    margin-top: -73px;
+}
+.contact_btn {
+    padding: 10px 44px;
+}
+
+
+/* footer section design start here */
+.footer_content {
+    padding: 26px 0;
+   
+}
+.footer_content h1 {
+    font-size: 26px;
+}
+
+.footer_2p{
+    text-align: center !important;
+}
+
+.footer_menu{
+    text-align: center !important;
+}
+
+
+/* footer section design end here */
+  
+ 
+
+ 
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+
+    /* header start here  */
+
+    header{
+        border-bottom: none;
+    }
+
+    .logo_h1 {
+        font-size: 28px;
+    }
+    .menu ul li a {
+        margin: 0px 5px;
+      
+    }
+    
+    .dropdown_main[data-bs-popper] {
+        top: 150%;
+        left: 7px;
+    }
+
+    .dropdown_main{
+        width: 497px;
+        border: none;
+    }
+
+    .btn_search {
+        margin-top: 0px;
+        margin-left: -6px;
+    }
+
+    .btn_input {
+        width: 415px;
+        height: 45px;
+        border-radius: 2px;
+    }
+    .search_btn {
+        width: 78px;
+        height: 45px;
+        border-radius: 2px;
+     
+    }
+
+
+
+        /* slider section start here */
+
+        .carousel_wrappers {
+            margin: 150px 0;
+        }
+        .carousel_wrappers h2 {
+            font-size: 46px;
+            margin-bottom: 35px;
+           
+        }
+        .carousel_wrappers p {
+            margin-bottom: 35px;
+            padding-right: 70px;
+        }
+
+        .btn_no1 {
+            padding: 10px 22px;
+        }
+
+        .custom_button{
+            text-align: center;
+    
+        }
+        
+
+        
+
+        /* courses section design start here */
+        .c_title h1 {
+            font-size: 28px;
+            line-height: 40px;
+        }
+
+        .c_title p {
+            text-align: left;
+            text-align: justify;
+        }
+
+        /* about section design start here  */
+
+        .about{
+            padding:20px 0 40px
+            
+        }
+        .about_content{
+            text-align: center;
+        }
+        
+      .about_content h1{
+       margin-top: 25px;
+       font-size: 28px;
+
+       }
+
+       .about_btn{
+        margin: 0 auto;
+        padding: 8px 16px;
+        margin-top: 0px;
+    
+    }
+
+     /* about section start here */
+
+ .gallery {
+        background-color: #f8f8f8;
+        padding: 50px 0;
+    }
+    
+
+
+
+.gallery_h1 {
+    font-size: 28px;
+}
+    
+
+
+ /* about section end here */
+
+
+
+    /* feature section start */
+
+    .feature {
+        padding: 30px 0 10px;
+    }
+    .feature_h1 {
+        font-size: 28px;
+    }
+
+    .feature_hr {
+        width: 87%;
+    }
+
+    /* team content tart */
+    .teams {
+        padding: 80px 0;
+    }
+
+    .team_box {
+        padding-top: 50px;
+    
+    }
+    .team_h {
+        font-size: 28px;
+        
+    }
+   
+
+    /* price section design here */
+
+    .price {
+        padding: 55px 0;
+    }
+
+    .price_h {
+        margin-bottom: 20px;
+        font-size: 28px;
+        
+    }
+    /* testimonial section start */
+.testimonial_content h5 {
+    margin: 10px 0 10px;
+}
+.testimonial_content p {
+    line-height: 26px;
+}
+
+
+.testimonial_cont_2 ul li {
+    padding: 37.5px 5px;
+}
+
+
+/* contacts section design start here */
+
+.contact{
+    padding: 10px 0 40px;
+}
+
+.contact_form {
+    padding: 55px 60px;
+}
+
+
+.contact_form h1 {
+    width: 36%;
+    font-size: 28px;
+    margin-top: -73px;
+    
+}
+
+.contact_btn {
+    padding: 10px 44px;
+}
+
+
+/* contact section design end here */
+
+
+/* footer section design start here */
+.footer_content h1 {
+    font-size: 28px;
+}
+
+.footer_2p{
+    text-align: center !important;
+}
+
+.footer_menu{
+    text-align: center !important;
+}
+
+/* footer section design end here */
+
+        
+
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* slider section start here */
+    .carousel_wrappers h2 {
+        font-size: 50px;
+        line-height: 45px;
+       
+    }
+
+    .carousel_wrappers p {
+        padding-right: 0px;
+    }
+
+
+    .courses_icon {
+        background-color: #fff;
+        margin: -28px auto 25px;
+        width: 50px;
+    }
+
+    .courses_content {
+        padding: 14px 10px;
+    }
+
+
+    /* about section start here */
+    .about_btn{
+    margin-top: 0px;
+}
+
+
+ /* about section start here */
+
+
+ /* about section end here */
+
+
+
+
+/* feature section start  */
+.feature_hr {
+    width: 100%;
+}
+
+/* team section */
+.social_m_links {
+    top: 71px;
+}
+
+/* price section design start here*/
+.price_item h5 span {
+    font-size: 32px;
+
+} 
+.price_btn {
+    padding: 10px 37px;
+}
+
+
+/* buy section design start */
+
+.buy_btn {
+    padding: 10px 55px;
+}
+
+/* testimonial section start */
+.testimonial_content h5 {
+    margin: 10px 0 10px;
+}
+.testimonial_content p {
+    line-height: 26px;
+}
+
+.testimonial_cont_2 ul li {
+    padding: 24px 16px;
+}
+
+
+/* contact section design start here */
+.contact_form h1 {
+    width: 36%;
+
+}
+
+
+
+
+
+ }
+
+ /* Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .feature_hr {
+        width: 97%;
+    }
+ 
+ 
+}
+
+
+ /* Extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  
+ 
+  
+ }
+
